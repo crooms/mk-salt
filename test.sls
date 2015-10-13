@@ -1,3 +1,3 @@
 test ping:
   cmd.run:
-    name:  ls /
+    - name:  ls /
